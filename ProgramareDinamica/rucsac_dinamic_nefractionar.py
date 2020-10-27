@@ -1,0 +1,1 @@
+G=int(input("Greutate="))
